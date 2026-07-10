@@ -1,3 +1,6 @@
+from doctest import master
+
+
 <!DOCTYPE html> 
 
 <html>
@@ -5,7 +8,8 @@
 
     </head>
     <body>
-        added in master
+=======
+
 
     </body>
 </html>
